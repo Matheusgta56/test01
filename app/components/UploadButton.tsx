@@ -12,7 +12,7 @@ export default function UploadButton(){
         widget.close()
     }
     return(
-        <CldUploadButton
+        <CldUploadButton className="bg-slate-200 px-3 py-2 rounded"
         onUpload={handleUpload}
         uploadPreset="yldnvxkv"
         />
