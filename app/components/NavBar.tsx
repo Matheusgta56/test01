@@ -10,7 +10,7 @@ export default function NavBar() {
             <Avatar>
                 <AvatarImage src="https://github.com/adairrohling.png" alt="@shadcn" />
                 <AvatarFallback>AR</AvatarFallback>
-            </Avatar>``
+            </Avatar>
         </div>
 
     )
